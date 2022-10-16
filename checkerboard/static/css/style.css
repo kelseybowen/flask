@@ -1,0 +1,21 @@
+* {
+    margin: 0px;
+    padding: 0;
+}
+
+.color_1 {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin: 0px;
+}
+
+.color_2 {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin: 0px;
+}
+
